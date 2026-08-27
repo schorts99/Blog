@@ -57,7 +57,7 @@ On an 11-inch display running at *1366 x 768*, traditional desktop window manage
 Operating on a machine with **3.68 GiB of usable RAM** and an **Intel Celeron N4020** usually means constant stuttering and high swap usage. Omarchy subverts this expectation through careful architectural choices:
 
 - **Wayland Compositing without Bloat**: Hyprland handles window composition directly on the GPU, leaving the dual-core Celeron free to handle background tasks and code compilation.
-- **Lightweight Terminal Choice**: While Omarchy defaults to Alacritty, running `foot` (a fast, lightweight Wayland terminal emulator) keeps system memory usage remarkably low while delivering sub-millisecond rendering times.
+- **Lightweight Terminal Choice**: Running `foot` (a fast, lightweight Wayland terminal emulator) keeps system memory usage remarkably low while delivering sub-millisecond rendering times.
 - **Btrfs Storage Optimizations**: The root partition runs on Btrfs, enabling transparent file compression and fast subvolume snapshots. This maximizes usable disk space on tight 32 GB or 64 GB internal drives while maintaining fast read/write speeds.
 
 ## 💡 Developer Evaluation: Should You Try Omarchy?
