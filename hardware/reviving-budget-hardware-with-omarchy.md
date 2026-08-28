@@ -2,7 +2,7 @@
 title: Reviving Budget Hardware with Omarchy - Lightweight Elegance on an Intel Celeron
 date: 2026-08-27
 author: Jorge Castillo
-published: false
+published: true
 ---
 
 When testing opinionated Linux distributions, the ultimate benchmark isn't how smoothly they run on a workstation with 16 cores and a high-end GPU—it's how gracefully they perform on budget, resource-constrained hardware. Enter **[Omarchy](https://omarchy.org)**, the "omakase" Arch-based distribution created by [David Heinemeier Hansson (DHH)](https://dhh.dk). Built around the Hyprland tiling window manager and explicitly tailored for modern developer productivity, Omarchy proves that a curated desktop environment doesn't require a heavy computing footprint.
