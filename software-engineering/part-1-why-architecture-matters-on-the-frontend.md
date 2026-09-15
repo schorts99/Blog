@@ -1,5 +1,5 @@
 ---
-title: Part 1 - Thw Why - Why Architecture Matters on the Frontend
+title: Part 1 - The Why - Why Architecture Matters on the Frontend
 date: 2026-09-08
 author: Jorge Castillo
 published: false
