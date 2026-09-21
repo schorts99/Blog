@@ -1,5 +1,5 @@
 ---
-title: Part 2 - Thw How - Architectural Layers & Domain-Driven Design
+title: Part 2 - The How - Architectural Layers & Domain-Driven Design
 date: 2026-09-20
 author: Jorge Castillo
 published: false
